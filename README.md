@@ -3,4 +3,4 @@
 > A detailed catalog of my past work-related experiences.
 
 ## Exports
-- **PDF** &ndash; [samueltirtawidjaja_cv_2021.pdf](export/Samuel Tirtawidjaja CV 2021.pdf)
+- **PDF** &ndash; [Samuel_Tirtawidjaja_CV_2021.pdf](export/Samuel_Tirtawidjaja_CV_2021.pdf)
